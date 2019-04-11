@@ -1,0 +1,16 @@
+body{
+    font-family:Verdana,sans-serif;
+    background-color:silver;
+    margin-top:10%;
+        width:80%;
+    margin:0 auto;
+}
+h1{
+    color:red;
+background-attachment: scroll;
+    font-size: 100px;
+}
+.rightAlign{
+    display:block;
+    text-align:right;
+}
